@@ -1,0 +1,7 @@
+Junior GenAI Engineer
+
+Required Skills:
+Python, FastAPI, LLM APIs, Prompt Engineering, RAG, Vector Databases, JSON, GitHub, API Integration, Pandas
+
+Responsibilities:
+Build AI applications, create backend APIs, integrate LLMs, process documents, and develop AI automation workflows.

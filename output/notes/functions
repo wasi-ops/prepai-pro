@@ -1,0 +1,28 @@
+User enters resume text
+        ↓
+User enters job description
+        ↓
+User selects analysis mode
+        ↓
+Prompt is created
+        ↓
+Prompt is sent to OpenRouter LLM
+        ↓
+AI returns JSON text
+        ↓
+JSON text is parsed into Python dictionary
+        ↓
+Result is validated
+        ↓
+Final analysis is printed
+        ↓
+Result is saved into outputs folder
+
+main.py
+input → prompt → LLM → parser → validator → output
+
+prompts.py
+PROMPT_MODES
+build_resume_analysis_prompt()
+
+llm_service.py

@@ -1,0 +1,12 @@
+Wasi Ahmed
+
+Skills:
+Python, Machine Learning, Deep Learning, NLP, Prompt Engineering, APIs, JSON, Pandas
+
+Projects:
+Built an AI chatbot using OpenRouter API.
+Built structured JSON output parser.
+Built batch candidate ranking system using pandas.
+
+Goal:
+Become a GenAI Engineer.
